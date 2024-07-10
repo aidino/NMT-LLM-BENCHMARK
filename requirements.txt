@@ -1,0 +1,8 @@
+torch
+ray
+numpy 
+pandas
+vllm
+langchain
+langchain-core
+langchain-community
